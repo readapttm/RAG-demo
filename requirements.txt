@@ -1,0 +1,8 @@
+pymupdf
+langchain_core
+langchain_openai
+langchain_community
+tiktoken
+gradio
+chromadb
+lark
