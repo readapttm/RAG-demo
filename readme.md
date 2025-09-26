@@ -16,3 +16,4 @@ To avoid any potential issues I will not host the pdfs in this repo, but they ar
 
  Alternatively, feel free to download a different set of pdfs and ask a different set of questions more appropriate for your chosen subject matter.
 
+NB. All code in this repository is provided for educational purposes only, with absolutely no warranty explicit, implied, or otherwise.
